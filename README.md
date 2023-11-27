@@ -25,4 +25,8 @@ A lo largo del desarrollo de este proyecto, se aplicaron los siguientes concepto
 - Polimorfismo y herencia para modelar relaciones entre clases de manera eficiente.
 - Uso de arreglos bidimensionales para representar la disposición de las sillas en la sala de cine.
 
+## Diagrama de Clases UML
+
+![Diagrama de Clases](Diagrama_de_clasesPF.jpg)
+
 
