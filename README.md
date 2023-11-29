@@ -20,7 +20,7 @@ Este proyecto fue desarrollado como parte de la asignatura de Metodología de la
 
 A lo largo del desarrollo de este proyecto, se aplicaron los siguientes conceptos de programación:
 
-- Arreglos y arreglos de objetos.
+- Arreglos de objetos.
 - Interfaces gráficas para mejorar la experiencia del usuario.
 - Polimorfismo y herencia para modelar relaciones entre clases de manera eficiente.
 - Uso de arreglos bidimensionales para representar la disposición de las sillas en la sala de cine.
